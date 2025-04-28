@@ -1,5 +1,5 @@
 ## About Me
-Currently a student at Arizona State University. Most of my pojects have to do with file manipulation or networking since that's what I enjoy most. Recently I've been working with websites and decided it's about time I get some serious exposure to TS and React so I've been working on a Linux system backup tool called [Inertia](https://github.com/BluSnake57/Inertia).
+Currently a student at Arizona State University. Most of my pojects tend to have something to do with data managment/manipulation and networking since that's what I enjoy most. Recently been introduced to  Recently I've been working with websites and decided it's about time I get some serious exposure to TS and React so I've been working on a Linux system backup tool called [Inertia](https://github.com/BluSnake57/Inertia).
 
 ## Favorite Technologies Right Now
 ![Wails Badge](https://img.shields.io/badge/Wails-DF0000?logo=wails&logoColor=fff&style=flat) 
@@ -19,7 +19,7 @@ Currently a student at Arizona State University. Most of my pojects have to do w
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) 
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat) 
 
-### Frameworks
+### Frameworks & Engines
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) 
 ![Wails Badge](https://img.shields.io/badge/Wails-DF0000?logo=wails&logoColor=fff&style=flat) 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat) 
@@ -44,7 +44,6 @@ Currently a student at Arizona State University. Most of my pojects have to do w
 ### Cloud
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat) 
 ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat) 
-![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat) 
 
 <!--
 - 🔭 I’m currently working on ...
