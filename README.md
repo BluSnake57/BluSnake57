@@ -1,5 +1,5 @@
 ## About Me
-Currently a student at Arizona State University. Most of my pojects tend to have something to do with data managment/manipulation and networking since that's what I enjoy most. Recently been introduced to  Recently I've been working with websites and decided it's about time I get some serious exposure to TS and React so I've been working on a Linux system backup tool called [Inertia](https://github.com/BluSnake57/Inertia).
+Currently a student at Arizona State University. Most of my pojects tend to have something to do with data managment/manipulation and networking since that's what I enjoy most. 
 
 ## Favorite Technologies Right Now
 ![Wails Badge](https://img.shields.io/badge/Wails-DF0000?logo=wails&logoColor=fff&style=flat) 
